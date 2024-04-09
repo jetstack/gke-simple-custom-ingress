@@ -1,5 +1,5 @@
 # gke-simple-custom-ingress
-Designed to be used alongside the blog <INSERT Link>
+Designed to be used alongside the blog INSERT LINK
 
 ## Pre Requisites 
 
