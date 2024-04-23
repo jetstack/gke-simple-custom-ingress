@@ -1,5 +1,5 @@
 # gke-simple-custom-ingress
-Designed to be used alongside the blog INSERT LINK
+Designed to be used alongside the blog https://venafi.com/blog/gke-custom-ingress-routing-made-simple/
 
 ## Pre Requisites 
 
